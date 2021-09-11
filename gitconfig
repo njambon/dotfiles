@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicolas_jambon@hotmail.fr
+	name = nicolas jambon
